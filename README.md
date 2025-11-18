@@ -27,7 +27,7 @@ Used Django to design it.
 
 ## Successful Other Tests
 ### Successful Login
-![Successful Login](imgs/Login_Success.png)
+![Successful Login](imgs/Login_success.png)
 
 ### Sucessful Get List
 ![Successful Get List](imgs/Retrieve_all_list.png)
