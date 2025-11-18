@@ -7,9 +7,11 @@ Used Django to design it.
 ## Issue encountered
 ### 1
 
+- Error creating users because I used space in the username and forgot the password field. Issue corrected.
+  
 ![Error create user](imgs/Error_creating_user.png)
 
-- Error creating users because I used space in the username and forgot the password field. Issue corrected. By removing the space in username and adding a password. **SOLVED**
+- By removing the space in username and adding a password. **SOLVED**
 
 ![Successful user creation](imgs/Success_creating_user.png)
 
